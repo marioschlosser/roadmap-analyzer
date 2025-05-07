@@ -6,3 +6,5 @@ The Colab will find the sheet's revision closest to the date in the past.
 It will send the current sheet and the past sheet to Gemini and ask it to compare.
 
 Excellent to compare the state of roadmaps in Google Sheet over time.
+
+You need a Google Gemini API key (or use any other LLM).
